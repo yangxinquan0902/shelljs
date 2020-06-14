@@ -1,0 +1,19 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "write": "node write.js",
+    "create": "node createDir.js",
+    "git": "node git.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "minimist": "^1.2.5",
+    "shelljs": "^0.8.4"
+  }
+}
